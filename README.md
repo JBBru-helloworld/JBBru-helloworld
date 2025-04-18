@@ -1,3 +1,5 @@
+![Banner](assets/JB_Bru.png)
+
 # 💫 About Me:
 
 Hello there! 👋 I’m Joshua “JB Bru” Bonham, a Software Engineering student at Sunway University (Class of 2026) based in sunny Malaysia ☀️. By day, I’m a code slinger—transforming spaghetti problems into al dente, maintainable masterpieces 🍝➡️💻. Whether I’m building a PHP‑powered recipe app to tackle zero‑hunger goals or assisting my squad to glory at Hackathons (🏆🥈), I live for that satisfying “It works!” moment.<br><br>When I’m not writing slick functions or refactoring my life choices (hello, 2 am debugging sessions 🐛🔍), I’m Vice President of the Sunway Mauritian Community—organizing events, juggling budgets, and orchestrating cross‑culture karaoke nights 🎤🌍. Off‑screen, you’ll catch me behind a camera lens 📸 or making gains at the gym 🏋️‍♂️ (because a strong API needs a strong developer, right?).<br><br>Fluent in English, French, Mauritian Creole, and Afrikaans, I code in many languages—and yes, “Hello World” is still my best icebreaker 😉. Let’s collaborate, innovate, and swap stories—ask me about the time I ran a guesthouse bar in Mauritius and debugged drink orders in French! 🍹🇲🇺
@@ -16,6 +18,14 @@ Hello there! 👋 I’m Joshua “JB Bru” Bonham, a Software Engineering stud
 ![](https://nirzak-streak-stats.vercel.app/?user=JBBru-helloworld&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JBBru-helloworld&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🐍 Say HI to Bob Da Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake.svg" />
+</picture>
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=JBBru-helloworld&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -23,9 +33,3 @@ Hello there! 👋 I’m Joshua “JB Bru” Bonham, a Software Engineering stud
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JBBru-helloworld&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake.svg" />
-</picture>
