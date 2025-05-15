@@ -22,7 +22,7 @@ Hello there! 👋 I’m Joshua “JB Bru” Bonham, a Software Engineering stud
 
 # 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=JBBru-helloworld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
+![](https://github-readme-stats.vercel.app/api?username=JBBru-helloworld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JBBru-helloworld&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JBBru-helloworld&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
