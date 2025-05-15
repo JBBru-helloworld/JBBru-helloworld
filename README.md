@@ -4,9 +4,9 @@
 
 Hello there! 👋 I’m Joshua “JB Bru” Bonham, a Software Engineering student at Sunway University (Class of 2026) based in sunny Malaysia ☀️. By day, I’m a code slinger—transforming spaghetti problems into al dente, maintainable masterpieces 🍝➡️💻. Whether I’m building a PHP‑powered recipe app to tackle zero‑hunger goals or assisting my squad to glory at Hackathons (🏆🥈), I live for that satisfying “It works!” moment.<br><br>When I’m not writing slick functions or refactoring my life choices (hello, 2 am debugging sessions 🐛🔍), I’m Vice President of the Sunway Mauritian Community—organizing events, juggling budgets, and orchestrating cross‑culture karaoke nights 🎤🌍. Off‑screen, you’ll catch me behind a camera lens 📸 or making gains at the gym 🏋️‍♂️ (because a strong API needs a strong developer, right?).<br><br>Fluent in English, French, Mauritian Creole, and Afrikaans, I code in many languages—and yes, “Hello World” is still my best icebreaker 😉. Let’s collaborate, innovate, and swap stories—ask me about the time I ran a guesthouse bar in Mauritius and debugged drink orders in French!! 🍹🇲🇺
 
-# 🌐 Socials:
+<!--# 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jb_bru/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuabonham03)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jb_bru/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuabonham03)-->
 
 # 💻 Tech Stack:
 
