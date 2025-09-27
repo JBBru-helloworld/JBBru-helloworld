@@ -24,9 +24,6 @@ Explored Scala and game development, sharpening my problem-solving and systems t
 
 📌 Currently seeking internship opportunities in software engineering and product development (Jan–Apr 2026) where I can apply my skills, learn from inspiring teams, and contribute to meaningful projects.
 
-Let’s connect — I’d love to share ideas, learn from others, and explore opportunities at the intersection of software, AI, and user experience.
-
-
 <!--# 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/jb_bru/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuabonham03)-->
