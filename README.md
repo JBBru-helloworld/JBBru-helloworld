@@ -2,7 +2,30 @@
 
 # 💫 About Me:
 
-Hello there! 👋 I’m Joshua “JB Bru” Bonham, a Software Engineering student at Sunway University (Class of 2026) based in Malaysia. By day, I’m a code slinger—transforming spaghetti problems into al dente, maintainable masterpieces 🍝➡️💻. Whether I’m building an AI‑integrated budget app to tackle zero‑hunger goals or assisting my squad to glory at Hackathons (🏆🥈), I live for that satisfying “It works!” moment.<br><br>When I’m not writing slick functions or refactoring my life choices (hello, 2 am debugging sessions 🐛🔍), I’m Vice President of the Sunway Mauritian Community—organising events, juggling budgets, and orchestrating cross‑culture karaoke nights 🎤🌍. Off‑screen, you’ll catch me behind a camera lens 📸 or making gains at the gym 🏋️‍♂️ (because a strong API needs a strong developer, right?).<br><br>Fluent in English, French, Mauritian Creole, and Afrikaans, I code in many languages—and yes, “Hello World” is still my best icebreaker 😉. Let’s collaborate, innovate, and swap stories!
+🌍 From a small island called Mauritius to building software in Malaysia, I’ve always seen technology as a bridge to bigger opportunities. Currently a final-year Software Engineering student, I specialise in full-stack development with a focus on creating interactive, user-friendly applications that solve real problems.
+
+💻 My experience spans:
+
+Frontend: React, JavaScript, HTML/CSS, UI/UX principles, performance optimisation
+
+Backend: Python (FastAPI), Node.js, REST APIs, SQL/NoSQL databases
+
+Other: Agile teamwork, Git, cloud deployment, AI-powered features (OCR, LLM integration)
+
+🚀 Highlights so far:
+
+Built a Budget Tracker app with AI-powered receipt scanning, combining front-end usability with backend scalability.
+
+Placed 2nd at ImagineHack, developing a virtual pet system that uses large language models to provide personalized financial nudges.
+
+Explored Scala and game development, sharpening my problem-solving and systems thinking.
+
+✨ What drives me is building applications people want to use — tools that are both functional and enjoyable. Whether it’s experimenting with AI features, contributing to hackathons, or refining UI for smoother experiences, I’m passionate about turning ideas into working solutions.
+
+📌 Currently seeking internship opportunities in software engineering and product development (Jan–Apr 2026) where I can apply my skills, learn from inspiring teams, and contribute to meaningful projects.
+
+Let’s connect — I’d love to share ideas, learn from others, and explore opportunities at the intersection of software, AI, and user experience.
+
 
 <!--# 🌐 Socials:
 
