@@ -14,7 +14,7 @@ Other: Agile teamwork, Git, cloud deployment, AI-powered features (OCR, LLM inte
 
 🚀 Highlights so far:
 
-Built a [Budget Tracker app](https://budget-tracker.jbbru.com/) with AI-powered receipt scanning, combining front-end usability with backend scalability.
+Built a [Budget Tracker](https://budget-tracker.jbbru.com/) app with AI-powered receipt scanning, combining front-end usability with backend scalability.
 
 Placed 2nd at ImagineHack, developing a virtual pet system called [Pengyou](https://pengyou.spimy.dev/) that uses large language models to provide personalised financial nudges.
 
