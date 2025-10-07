@@ -22,7 +22,7 @@ Explored Scala and game development, sharpening my problem-solving and systems t
 
 ✨ What drives me is building applications people want to use — tools that are both functional and enjoyable. Whether it’s experimenting with AI features, contributing to hackathons, or refining UI for smoother experiences, I’m passionate about turning ideas into working solutions.
 
-📌 Currently seeking internship opportunities in software engineering and product development (Jan–Apr 2026) where I can apply my skills, learn from inspiring teams, and contribute to meaningful projects.
+📌 Currently seeking internship opportunities in software engineering and product development (January–April 2026) where I can apply my skills, learn from inspiring teams, and contribute to meaningful projects.
 
 <!--# 🌐 Socials:
 
