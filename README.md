@@ -4,7 +4,7 @@
 
 🌍 From a small island called Mauritius to building software in Malaysia, I’ve always seen technology as a bridge to bigger opportunities. Currently a final-year Software Engineering student, I specialise in full-stack development with a focus on creating interactive, user-friendly applications that solve real problems.
 
-💻 My experience spans:
+💻 **My experience spans**:
 
 Frontend: React, JavaScript, HTML/CSS, UI/UX principles, performance optimisation
 
@@ -12,7 +12,7 @@ Backend: Python (FastAPI), Node.js, REST APIs, SQL/NoSQL databases
 
 Other: Agile teamwork, Git, cloud deployment, AI-powered features (OCR, LLM integration)
 
-🚀 Highlights so far:
+🚀 **Highlights so far**:
 
 Built a [Budget Tracker](https://budget-tracker.jbbru.com/) app with AI-powered receipt scanning, combining front-end usability with backend scalability.
 
