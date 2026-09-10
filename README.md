@@ -8,7 +8,7 @@ From a small island called Mauritius to building software in Malaysia, I’ve al
 
 Frontend: TypeScript, React, JavaScript, HTML/CSS, UI/UX principles, performance optimisation
 
-Backend: Python (FastAPI), Node.js, REST APIs, SQL/NoSQL databases
+Backend: Python (FastAPI), Node.js, REST APIs, SQL/NoSQL databases, Supabase, Google Gemini AI
 
 Other: Agile teamwork, Git, cloud deployment, AI-powered features (OCR, LLM integration)
 
