@@ -12,7 +12,7 @@ Other: Agile teamwork, Git, cloud deployment, AI-powered features (OCR, LLM inte
 
 **Highlights so far**:
 
-Built an [AI-Powered Employment App for Persons with Disabilities](https://inklusif.org/) app with AI-powered resume scanning, multilingual translations, offer letter generation & multistakeholder management.
+Built an [AI-Powered Employment App for Persons with Disabilities](https://inklusif.org/) with AI-powered resume scanning, multilingual translations, offer letter generation & multistakeholder management.
 
 Placed 2nd at ImagineHack, developing a virtual pet system called [PengYou](https://pengyou.spimy.dev/) that uses large language models to provide personalised financial nudges.
 
