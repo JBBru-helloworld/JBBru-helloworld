@@ -10,7 +10,7 @@ Backend: Python (FastAPI), Node.js, REST APIs, SQL/NoSQL databases, Supabase, Go
 
 Other: Agile teamwork, Git, cloud deployment, AI-powered features (OCR, LLM integration)
 
-🚀 **Highlights so far**:
+**Highlights so far**:
 
 Built an [AI-Powered Employment App for Persons with Disabilities](https://inklusif.org/) app with AI-powered resume scanning, multilingual translations, offer letter generation & multistakeholder management.
 
@@ -18,7 +18,7 @@ Placed 2nd at ImagineHack, developing a virtual pet system called [PengYou](http
 
 Explored Scala and game development, sharpening my problem-solving and systems thinking.
 
-✨ What drives me is building applications people want to use — tools that are both functional and enjoyable. Whether it’s experimenting with AI features, contributing to hackathons, or refining UI for smoother experiences, I’m passionate about turning ideas into working solutions.
+What drives me is building applications people want to use, tools that are both functional and enjoyable. Whether it’s experimenting with AI features, contributing to hackathons, or refining UI for smoother experiences, I’m passionate about turning ideas into working solutions.
 
 <!--# 🌐 Socials:
 
