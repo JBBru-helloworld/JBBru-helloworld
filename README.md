@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 From a small island called Mauritius to building software in Malaysia, I’ve always seen technology as a bridge to bigger opportunities. Currently a final-year Software Engineering student, I specialise in full-stack development with a focus on creating interactive, user-friendly applications that solve real problems.
 
@@ -36,7 +36,7 @@ Explored Scala and game development, sharpening my problem-solving and systems t
   <img alt="github-snake" src="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake.svg" />
 </picture>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=JBBru-helloworld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JBBru-helloworld&theme=dark&hide_border=false)<br/>
