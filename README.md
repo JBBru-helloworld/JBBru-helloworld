@@ -1,6 +1,6 @@
 # About Me:
 
-From a small island called Mauritius to building software in Malaysia, I’ve always seen technology as a bridge to bigger opportunities. Currently a final-year Software Engineering student, I specialise in full-stack development with a focus on creating interactive, user-friendly applications that solve real problems.
+From a small island called Mauritius to building software in Malaysia, I’ve always seen technology as a bridge to bigger opportunities. Graduated as a Software Engineering student, I specialise in full-stack development with a focus on creating AI-first, interactive, user-friendly applications that solve real problems.
 
 💻 **My experience spans**:
 
