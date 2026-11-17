@@ -36,6 +36,7 @@ What drives me is building applications people want to use, tools that are both 
   <img alt="github-snake" src="https://raw.githubusercontent.com/JBBru-helloworld/JBBru-helloworld/output/github-snake.svg" />
 </picture>
 
+<!--
 # GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=JBBru-helloworld&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -49,4 +50,4 @@ What drives me is building applications people want to use, tools that are both 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=JBBru-helloworld&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
